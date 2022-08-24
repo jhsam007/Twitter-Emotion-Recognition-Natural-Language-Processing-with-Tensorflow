@@ -1,1 +1,1 @@
-# Twitter-Emotion-Recognition-Natural-Language-Processing-with-Tensorflow
+# Twitter-Emotion-Recognition-Using-RNN-with-Tensorflow
